@@ -7,11 +7,11 @@ CREATE TABLE projects (
   end_date REAL
 );
 
-#CREATE TABLE users (
-#  id INTEGER PRIMARY KEY AUTOINCREMENT,
-#  name TEXT,
-#  age INTEGER,
-#);
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT,
+  age INTEGER,
+);
 
 #CREATE TABLE pledges (
 #  id INTEGER PRIMARY KEY AUTOINCREMENT,
